@@ -1,4 +1,69 @@
 Year,Name,First Job Title,First Job Location,Type,Advisor
+2022,Tobia Boschi,Research Scientist,IBM Researc h,Industry,Francesca Chiaromonte and Matthew Reimherr
+2022,Shijie Cui,Quantitative Analyst,Wells Fargo,Industry,Runze Li
+2022,Elizabeth Eisenhauer,Statistician,Westat,Industry,Ephraim Hanks and Matthew Beckman 
+2022,Claire Kelling,Assistant Professor of Statistics,Carleton College,Academia,Murali Haran
+2022,Ian Laga,Assistant Professor of Statistics,Montana State University,Academia,Xiaoyue Niu and Le Bao
+2022,Xiaoxiao Li,Data Scientist,Microsoft Azure AI Platform,Industry,Murali Haran and Matthew Ferrari
+2022,Yujie Liao,Applied Scientist,Uber,Industry,Runze Li
+2022,Sayali Phadke,Assistant Professor of Statistics,Penn State Erie,Academia,Matthew Beckman and David Hunter
+2022,Harris Quach,Postdoctoral Researcher,University of Pennsylvania,Academia,Bing Li
+2022,Nicholas Rios,Assistant Professor,George Mason University,Academia,Dennis Lin and Lingzhou Xue
+2022,Tianhong Sheng,Data Scientist,Pinterest,Industry,Bing Li and Bharath Sriperumbudur
+2022,Nikolas Siapoutis,Assistant Teaching Professor,University of Pittsburgh,Academia,Donald Richards and Bharath Kumar Sriperumbudur
+2022,Arun Srinivasan,Principal Statistician,GlaxoSmithKline,Industry,Lingzhou Xue
+2022,Jun Tao,ML Engineer,Adobe,Industry,Lingzhou Xue and Bing Li
+2022,Isaac Wright,Data Scientist,Liberty Mutual,Industry,Matthew Reimherr
+2022,Lixiang Zhang,Data Scientist,Google,Industry,Jia Li and Lynn Lin
+2022,Muzi Zhang,N/A,N/A,N/A,Dennis Lin
+2022,Alex Zhao,Senior Data Scientist,Boston Consulting Group,Industry,Runze Li
+2021,Zhanrui Cai,Postdoctoral Researcher,Carnegie Mellon University,Academia,Runze Li
+2021,Adam Walder,Postdoctoral Researcher,Lawrence Livermore National Laboratory,Academia,Ephraim Hanks
+2021,Trinetri Ghosh,Postdoctoral Fellow,University of Wisconsin-Madison,Academia,Yanyuan Ma
+2021,Ana Kenney,Postdoctoral Scholar,"University of California, Berkeley",Academia,Francesca Chiaromonte and Matthew Reimherr
+2021,Bingyuan Liu,Data Scientist,Google,Industry,Lingzhou Xue
+2021,Ilias Moysidis,Postdoctoral Fellow,Fred Hutchinson Cancer Research Center,Academia,Bing Li
+2021,Lin Qiu,AI Scientist,Genetech,Industry,Vernon M. Chinchilli and Lynn Lin
+2021,Aniruddha Rajendra Rao,Machine Learning Researcher,Hitachi America,Industry,Matthew Reimherr
+2021,Christian Schmid,Statistica Scientist,"F. Hoffmann-La Roche, Switzerland",Industry,David Hunter
+2021,Ben Sheng,Mathematical Statistician,FDA CDRH,Other,Le Bao
+2021,Beomseok Seo,Economist,Bank of Korea,Other,Jia Li and Lynn Lin
+2021,Roopali Singh,Data Scientist,Amazon,Industry,Qunhua Li
+2021,Nicholas Sterge,N/A,N/A,N/A,Bharath Sriperumbudur
+2021,Jia Wang,Data Scientist,Google,Industry,Runze Li
+2021,Nathan Wikle,Postdoctoral Fellow,"University of Texas, Austin",Academia,Ephraim Hanks
+2021,Xiufan Yu,Assistant Professor of Statistics,University of Notre Dame,Academia,Lingzhou Xue and Runze Li
+2021,Sahar Zarmehri,Assistant Vice President,Citi,Industry,Ephraim Hanks and Lynn Lin
+2021,Mudong Zeng,Asset Manager,J.P. Morgan,Industry,Runze Li
+2021,Amy Zhang,Statistician,SomaLogic,Industry,Le Bao
+2020,Amal Agarwal,Data Scientist,eBay,Industry,Lingzhou Xue
+2020,Jordan Awan,Assistant Professor,Purdue University,Academia,Aleksandra Slavkovic and Matthew Reimherr
+2020,Meridith Bartley,Statistician,USGS,Other,Ephraim Hanks
+2020,Kyongwon Kim,Assistant Professor,Wake Forest University,Academia,Bing Li
+2020,Hillary Koch,Preclinical Statistician,Moderna,Industry,Qunhua Li
+2020,Seiyon (Ben) Lee,Assistant Professor,George Mason University,Academia,Murali Haran
+2020,Mengyan Li,Assistant Professor,Bentley University,Academia,Yanyuan Ma and Runze Li
+2020,Mauricio Nascimento,Assistant Teaching Professor,Penn State University,Academia,Benjamin Shaby
+2020,Michelle Nixon,Assistant Research Professor,Penn State University,Academia,Aleksandra Slavkovic
+2020,Ame Osotsi,Senior NLP Developer,Optum,Industry,Qunhua Li
+2020,Jacob Parsons,Research Statistician,GlaxoSmithKline,Industry,Le Bao and Xiaoyue Niu
+2020,Jiawei Wen,Research Scientist,Facebook,Industry,Runze Li and Xingyuan Fang
+2020,Dhanushi Wijeyakulasuriya,Data Scientist,Microsoft,Industry,Ephraim Hanks and Benjamin Shaby
+2020,Likun Zhang,Postdoctoral Scholar,Lawrence Berkeley National Laboratory,Academia,Benjamin Shaby
+2019,Gregory Bopp,Technical Staff,MIT Lincoln Laboratory,Other,Benjamin Shaby
+2019,Elena Hadjicosta,Postdoctoral Fellow,University College London,Academia,Donald Richards
+2019,Changcheng Li,Postdoctoral Scholar,Penn State University,Academia,Runze Li
+2019,Wanjun Liu,Data Scientist,LinkedIn,Industry,Runze Li
+2019,Ardalan Mirshani,Principle Scientific Computing Consultant,Novartis,Academia,Matthew Reimherr
+2019,Debmalya Nandy,Postdoctoral Fellow,University of Colorado Anschutz Medical Campus,Academia,Francesca Chiaromonte and Bruce Lindsay
+2019,Jaewoo Park,Assistant Professor,Yonsei University,Academia,Murali Haran
+2019,Jiayu Peng,,Google,Industry,Dennis Lin
+2019,Kevin Quinlan,,Lawrence Livermore National Laboratory,Other,Dennis Lin
+2019,Frank Shen,Biostatistician,Bristol-Myers Squibb,Industry,Qunhua Li and Naomi Altman
+2019,Ching-Chi Yang,Assistant Professor,University of Memphis,Academia,Dennis Lin
+2019,Cheng You,,Wells Fargo,Industry,Dennis Lin
+2019,Ling Zhao,Data Scientist,Wells Fargo,Industry,Runze Li
+2019,Ge Zhao,Assistant Professor,Portland State University,Academia,Yanyuan Ma
 2018,Bomin Kim,Quantitative Analytics Sr,Freddie Mac,Industry,David Hunter
 2018,Justin Petrovich,"Assistant Professor, Business Administration",Saint Vincent College,Academia,Matt Reimherr
 2018,Joshua Snoke,Associate Statistician,Rand Corporation,Other,Aleksandra Slavkovic
@@ -22,7 +87,7 @@ Year,Name,First Job Title,First Job Location,Type,Advisor
 2016,Bahaeddine Taoufik,Lecturer,Fordham University,Academia,Matt Reimherr
 2015,Armine Bagyan,Instructor,Penn State University,Academia,Arkady Tempelman and Bing Li
 2015,Youngjoo Cho,Postdoctoral Fellow,University of Rochester,Academia,Debashis Ghosh
-2015,Joshua Goldstein,Social and Decision Analytics Lab,Virginia Tech,Academia,Murali Haran
+2015,Joshua Goldstein,"Postdoctoral Fellow, Social and Decision Analytics Lab",Virginia Tech,Academia,Murali Haran
 2015,Yuan Huang,Postdoctoral Fellow,Yale University,Academia,Runze Li
 2015,Yang Liu,Quantitative Associate,Bank of America,Industry,Francesca Chiaromonte
 2015,Sae Na Park,Senior Research Engineer,Samsung Electronics,Industry,Jogesh Babu
